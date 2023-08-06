@@ -10,10 +10,6 @@
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;700&display=swap");
-/* 
-Add viewport measures 
-Usar flex grow
-overflow para las imagenes */
 
 html {
   margin: 0;
